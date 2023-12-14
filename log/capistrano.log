@@ -1,0 +1,190 @@
+# Logfile created on 2023-12-14 10:54:08 +0000 by logger.rb/v1.4.2
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 10:54:08 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [21b83f11] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [21b83f11] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 10:56:43 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [8f703641] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [8f703641] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 10:58:07 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [2f51d1ff] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [2f51d1ff] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [2f51d1ff] Finished in 1.270 seconds with exit status 0 (successful).
+  INFO [252724bb] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [252724bb] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [252724bb] Finished in 0.107 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [a26bf3d0] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [a26bf3d0] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [a26bf3d0] Finished in 0.103 seconds with exit status 0 (successful).
+ ERROR nvm: nvm_node is not set
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:03:25 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [20ffa577] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [20ffa577] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [20ffa577] Finished in 1.059 seconds with exit status 0 (successful).
+  INFO [279bd38e] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [279bd38e] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [279bd38e] Finished in 0.071 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [bd238695] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [bd238695] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [bd238695] Finished in 0.071 seconds with exit status 0 (successful).
+ ERROR nvm: nvm_node is not set
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:06:21 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [2abda17c] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [2abda17c] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [2abda17c] Finished in 1.074 seconds with exit status 0 (successful).
+  INFO [f0c5989c] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [f0c5989c] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [f0c5989c] Finished in 0.082 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [3d54dba1] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [3d54dba1] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [3d54dba1] Finished in 0.080 seconds with exit status 0 (successful).
+ ERROR nvm: nvm_node is not set
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:11:02 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [48b73934] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [48b73934] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [48b73934] Finished in 1.053 seconds with exit status 0 (successful).
+  INFO [3e46ff88] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [3e46ff88] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [3e46ff88] Finished in 0.084 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [05721a43] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [05721a43] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [05721a43] Finished in 0.087 seconds with exit status 0 (successful).
+ ERROR nvm: nvm_node is not set
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:12:59 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [50ff555f] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [50ff555f] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [50ff555f] Finished in 1.028 seconds with exit status 0 (successful).
+  INFO [16f411d1] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [16f411d1] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [16f411d1] Finished in 0.063 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [8a995aa2] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [8a995aa2] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [8a995aa2] Finished in 0.064 seconds with exit status 0 (successful).
+ ERROR nvm: nvm_node is not set
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:15:00 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [9e019129] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [9e019129] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [9e019129] Finished in 1.380 seconds with exit status 0 (successful).
+  INFO [73869962] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [73869962] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [73869962] Finished in 0.076 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [333d0527] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [333d0527] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [333d0527] Finished in 0.077 seconds with exit status 0 (successful).
+ ERROR nvm: nvm_node is not set
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:20:36 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [4ead8f7b] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [4ead8f7b] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [4ead8f7b] Finished in 1.191 seconds with exit status 0 (successful).
+  INFO [01f19107] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [01f19107] Command: ( export NVM_DIR="/home/deploy/.nvm" NODE_VERSION="v14.20.1" RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [01f19107] Finished in 0.081 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [0ea7e6fb] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [0ea7e6fb] Command: ( export NVM_DIR="/home/deploy/.nvm" NODE_VERSION="v14.20.1" RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [0ea7e6fb] Finished in 0.082 seconds with exit status 0 (successful).
+ DEBUG [2d34e1ca] Running [ -d $HOME/.nvm/v14.20.1 ] || [ -d $HOME/.nvm/versions/node/v14.20.1 ] as deploy@13.127.124.45
+ DEBUG [2d34e1ca] Command: [ -d $HOME/.nvm/v14.20.1 ] || [ -d $HOME/.nvm/versions/node/v14.20.1 ]
+ DEBUG [2d34e1ca] Finished in 0.079 seconds with exit status 1 (failed).
+ ERROR nvm: v14.20.1 is not installed or not found in any of $HOME/.nvm/v14.20.1 $HOME/.nvm/versions/node/v14.20.1
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:43:40 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [059b28c7] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [059b28c7] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [059b28c7] Finished in 0.969 seconds with exit status 0 (successful).
+  INFO [cbcd48fc] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [cbcd48fc] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [cbcd48fc] Finished in 0.073 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [ba013e89] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [ba013e89] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [ba013e89] Finished in 0.071 seconds with exit status 0 (successful).
+ DEBUG [78aa375d] Running [ -d $HOME/.nvm/v14.20.1 ] || [ -d $HOME/.nvm/versions/node/v14.20.1 ] as deploy@13.127.124.45
+ DEBUG [78aa375d] Command: [ -d $HOME/.nvm/v14.20.1 ] || [ -d $HOME/.nvm/versions/node/v14.20.1 ]
+ DEBUG [78aa375d] Finished in 0.061 seconds with exit status 1 (failed).
+ ERROR nvm: v14.20.1 is not installed or not found in any of $HOME/.nvm/v14.20.1 $HOME/.nvm/versions/node/v14.20.1
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 11:52:25 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [16c08b8f] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [16c08b8f] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [16c08b8f] Finished in 1.126 seconds with exit status 0 (successful).
+  INFO [4272ca9b] Running /usr/bin/env mkdir -p /tmp/Hello/ as deploy@13.127.124.45
+ DEBUG [4272ca9b] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp/Hello/ )
+  INFO [4272ca9b] Finished in 0.089 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/Hello/nvm-exec.sh 0.0%
+  INFO Uploading /tmp/Hello/nvm-exec.sh 100.0%
+  INFO [77ad76b2] Running /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh as deploy@13.127.124.45
+ DEBUG [77ad76b2] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod +x /tmp/Hello/nvm-exec.sh )
+  INFO [77ad76b2] Finished in 0.081 seconds with exit status 0 (successful).
+ ERROR nvm: nvm_node is not set
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 12:30:55 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [b9daae6a] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [b9daae6a] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [b9daae6a] Finished in 1.022 seconds with exit status 0 (successful).
+  INFO [d55b520c] Running /usr/bin/env mkdir -p /tmp as deploy@13.127.124.45
+ DEBUG [d55b520c] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp )
+  INFO [d55b520c] Finished in 0.075 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Hello-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Hello-production-.sh 100.0%
+  INFO [6c9d7342] Running /usr/bin/env chmod 700 /tmp/git-ssh-Hello-production-.sh as deploy@13.127.124.45
+ DEBUG [6c9d7342] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod 700 /tmp/git-ssh-Hello-production-.sh )
+  INFO [6c9d7342] Finished in 0.063 seconds with exit status 0 (successful).
+  INFO [7b01e658] Running /usr/bin/env git ls-remote https://github.com/snehaannadurai21/hello.git HEAD as deploy@13.127.124.45
+ DEBUG [7b01e658] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Hello-production-.sh" ; /usr/bin/env git ls-remote https://github.com/snehaannadurai21/hello.git HEAD )
+ DEBUG [7b01e658] 	remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+ DEBUG [7b01e658] 	fatal: Authentication failed for 'https://github.com/snehaannadurai21/hello.git/'
+  INFO ---------------------------------------------------------------------------
+  INFO START 2023-12-14 12:43:00 +0000 cap production deploy:check
+  INFO ---------------------------------------------------------------------------
+ DEBUG [2c70bbc0] Running [ -d $HOME/.rbenv/versions/2.7.5 ] as deploy@13.127.124.45
+ DEBUG [2c70bbc0] Command: [ -d $HOME/.rbenv/versions/2.7.5 ]
+ DEBUG [2c70bbc0] Finished in 1.025 seconds with exit status 0 (successful).
+  INFO [217b4ee5] Running /usr/bin/env mkdir -p /tmp as deploy@13.127.124.45
+ DEBUG [217b4ee5] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env mkdir -p /tmp )
+  INFO [217b4ee5] Finished in 0.080 seconds with exit status 0 (successful).
+ DEBUG Uploading /tmp/git-ssh-Hello-production-.sh 0.0%
+  INFO Uploading /tmp/git-ssh-Hello-production-.sh 100.0%
+  INFO [609016d9] Running /usr/bin/env chmod 700 /tmp/git-ssh-Hello-production-.sh as deploy@13.127.124.45
+ DEBUG [609016d9] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" ; /usr/bin/env chmod 700 /tmp/git-ssh-Hello-production-.sh )
+  INFO [609016d9] Finished in 0.072 seconds with exit status 0 (successful).
+  INFO [c8b6ff26] Running /usr/bin/env git ls-remote https://github.com/snehaannadurai21/hello.git HEAD as deploy@13.127.124.45
+ DEBUG [c8b6ff26] Command: ( export RBENV_ROOT="$HOME/.rbenv" RBENV_VERSION="2.7.5" GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-Hello-production-.sh" ; /usr/bin/env git ls-remote https://github.com/snehaannadurai21/hello.git HEAD )
+ DEBUG [c8b6ff26] 	remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+ DEBUG [c8b6ff26] 	fatal: Authentication failed for 'https://github.com/snehaannadurai21/hello.git/'
